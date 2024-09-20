@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/mlflow/mlruns/0/cbc4695d71df4bc8a78bae22aa6642c2/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cbc4695d71df4bc8a78bae22aa6642c2
+run_name: inquisitive-hare-275
+run_uuid: cbc4695d71df4bc8a78bae22aa6642c2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726670019473
+status: 1
+tags: []
+user_id: rythm

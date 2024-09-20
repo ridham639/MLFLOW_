@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/mlflow/mlruns/0/d02fb02f6ddb43c58b4b96fbc6def50a/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d02fb02f6ddb43c58b4b96fbc6def50a
+run_name: debonair-fly-318
+run_uuid: d02fb02f6ddb43c58b4b96fbc6def50a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726591672636
+status: 1
+tags: []
+user_id: rythm
